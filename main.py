@@ -116,4 +116,4 @@ print (txt.format(user_name,random_destination,random_transportation,random_ente
 print('')
 user_finalize = input('Are you ready to finalize trip? Y/N ')
 print('') 
-print('Fantastic! Trip Generator is complete.')
+print('Fantastic! Trip Generator')
